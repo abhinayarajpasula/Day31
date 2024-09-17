@@ -1,0 +1,7 @@
+* create an admin dashboard for a library management system that allows users to manage book and author details. Use formik for all form validations
+
+Requirements:
+1) Users should be able to add, edit, and delete book records. Each book record should contain the title, author, ISBN number, and publication date.
+2) Users should be able to add, edit, and delete author records. Each author record should contain the author's name, birth date, and a short biography.
+3) All froms used in the dashboard should be validated using formik.
+4) Th dashboard should have a clean and responsive design that is easy to use and navigate.

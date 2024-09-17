@@ -1,0 +1,67 @@
+.table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+  }
+  
+  .table th,
+  .table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .table th {
+    background-color: #f4f4f4;
+  }
+  
+  .table td {
+    max-width: 200px; 
+    overflow-wrap: break-word; 
+  }
+  
+  .table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }  
+
+  /* BookList.css */
+
+.book-form {
+    margin-bottom: 20px;
+  }
+  
+  .book-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  .book-form input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  .book-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .book-table th, .book-table td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .book-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .book-table tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
